@@ -1,4 +1,5 @@
 import sqlite3
+
 class ProgramaPrincipal:
 
     def menu(self):

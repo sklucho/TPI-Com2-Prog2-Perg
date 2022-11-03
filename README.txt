@@ -1,6 +1,4 @@
 Integrantes:
 Luciano Perg, Legajo 50636
-Franco Procaccinni
-Estefano Sobrero, Legajo 50557
-
+Grupo: 3
 Comision: 2
